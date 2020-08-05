@@ -6,7 +6,6 @@ def square_array(array)
     array_of_squares.push(array[counter] ** array[counter])
     counter += 1
   end
- end
  
  return array_of_squares 
 end
